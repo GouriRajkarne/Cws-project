@@ -1,0 +1,43 @@
+/* App.css */
+
+.App {
+  text-align: center;
+}
+
+header {
+  background-color: #277750;
+  color: #fff;
+  padding: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+section {
+  padding: 20px;
+}
+
+.menu-item {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
